@@ -1,0 +1,32 @@
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2\YazıYazmaCocuk\YazıYazmaCocuk\bin\Debug\YazıYazmaCocuk.exe.config
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2\YazıYazmaCocuk\YazıYazmaCocuk\bin\Debug\YazıYazmaCocuk.exe
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2\YazıYazmaCocuk\YazıYazmaCocuk\bin\Debug\YazıYazmaCocuk.pdb
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.csproj.AssemblyReference.cache
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.Form1.resources
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.Properties.Resources.resources
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.csproj.GenerateResource.cache
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.csproj.CoreCompileInputs.cache
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.exe
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.pdb
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 2.gün\YazıYazmaCocuk\YazıYazmaCocuk\bin\Debug\YazıYazmaCocuk.exe.config
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 2.gün\YazıYazmaCocuk\YazıYazmaCocuk\bin\Debug\YazıYazmaCocuk.exe
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 2.gün\YazıYazmaCocuk\YazıYazmaCocuk\bin\Debug\YazıYazmaCocuk.pdb
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 2.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.csproj.AssemblyReference.cache
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 2.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.Form2.resources
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 2.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.Form1.resources
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 2.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.Properties.Resources.resources
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 2.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.csproj.GenerateResource.cache
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 2.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.csproj.CoreCompileInputs.cache
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 2.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.exe
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 2.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.pdb
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 4.gün\YazıYazmaCocuk\YazıYazmaCocuk\bin\Debug\YazıYazmaCocuk.exe.config
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 4.gün\YazıYazmaCocuk\YazıYazmaCocuk\bin\Debug\YazıYazmaCocuk.exe
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 4.gün\YazıYazmaCocuk\YazıYazmaCocuk\bin\Debug\YazıYazmaCocuk.pdb
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 4.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.csproj.AssemblyReference.cache
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 4.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.Form2.resources
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 4.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.Form1.resources
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 4.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.Properties.Resources.resources
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 4.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.csproj.GenerateResource.cache
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 4.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.csproj.CoreCompileInputs.cache
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 4.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.exe
+C:\Users\ogzhn\OneDrive\Masaüstü\Staj2 4.gün\YazıYazmaCocuk\YazıYazmaCocuk\obj\Debug\YazıYazmaCocuk.pdb
